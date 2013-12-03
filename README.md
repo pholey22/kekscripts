@@ -5,7 +5,7 @@ Random scripts for plug.dj, these don't do anything particularly special. Use at
 
 (To use autowooter, copy and paste the below code into a new bookmark, then click on that bookmark when in a plug.dj room)
 
-javascript: (function () { 
+javascript:(function () { 
 	var jsCode = document.createElement('script'); 
 	jsCode.setAttribute('src', 'https://raw.github.com/pholey22/kekscripts/master/autowoot.js');      			
   document.body.appendChild(jsCode); 
